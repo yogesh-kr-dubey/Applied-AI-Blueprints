@@ -13,30 +13,30 @@ I believe that Artificial Intelligence should be accessible, reproducible, and p
 ### Real-Time Object Detection
 **Strategic Focus:** Computer Vision
 
-* **Overview:** Implementation of high-accuracy object detection protocols. This project focuses on identifying and labeling multiple objects within a single frame using deep learning architectures.
-* **Methodology:** Leveraging the TensorFlow Object Detection API to train and deploy models capable of real-time image processing and classification.
-* **Documentation:** `Object Detection Using TensorFlow`
+* **Overview:** Developed an end-to-end Object Detection system using TensorFlow that performs simultaneous digit classification and object localization through a custom Convolutional Neural Network (CNN). The project encompasses the complete deep learning pipeline, including dataset preprocessing, bounding box generation, model development, training, validation, performance evaluation, and visualization of detection results using the MNIST dataset.
+* **Methodology:** mplemented a comprehensive object detection pipeline by preprocessing the MNIST dataset, generating normalized bounding box annotations, and constructing optimized training and validation data pipelines using TensorFlow. Designed a multi-output CNN architecture with separate branches for digit classification and bounding box regression, trained the model using the Adam optimizer, and evaluated its performance through Classification Accuracy, Classification Loss, Bounding Box Mean Squared Error (MSE), and Intersection over Union (IoU). Finally, visualized the predicted object classes and bounding boxes alongside the ground truth annotations to qualitatively assess the model's detection performance.
+* **Documentation:** `Object Detection Using TensorFlow.ipynb`
 
 ### Landmark Recognition
 **Strategic Focus:** Image Analysis
 
 * **Overview:** A specialized computer vision project designed to identify unique geographical or structural landmarks. This blueprint emphasizes feature matching and robust image recognition.
 * **Methodology:** Application of deep neural networks to extract spatial features and verify identities against localized datasets.
-* **Documentation:** `Landmark_Recognition_Keras.ipynb`
+* **Documentation:** `Landmark Recognition Keras.ipynb`
 
 ### Text Classification & Sentiment Analysis
 **Strategic Focus:** Natural Language Processing (NLP)
 
 * **Overview:** Developing systems for automated text categorization. This project demonstrates the ability of AI to interpret intent and classify unstructured data into actionable categories.
 * **Methodology:** Building sequence models with TensorFlow to process textual input, utilizing tokenization and embedding layers for linguistic accuracy.
-* **Documentation:** `Text_Classification.ipynb`
+* **Documentation:** `Text Classification.ipynb`
 
 ### Groundwater Prediction & Recommendation System
 **Strategic Focus:** Environmental Data Science & Predictive Analytics
 
 * **Overview:** A dual-purpose system designed to forecast groundwater levels and provide strategic recommendations for resource management. 
 * **Methodology:** Integration of historical environmental data with regression-based models to predict availability and generate data-driven suggestions for optimization.
-* **Documentation:** `Groundwater_Prediction_and_Recommnedation_System.ipynb`
+* **Documentation:** `Groundwater Prediction and Recommnedation System.ipynb`
 
 ---
 
