@@ -15,7 +15,7 @@ I believe that Artificial Intelligence should be accessible, reproducible, and p
 
 * **Overview:** Implementation of high-accuracy object detection protocols. This project focuses on identifying and labeling multiple objects within a single frame using deep learning architectures.
 * **Methodology:** Leveraging the TensorFlow Object Detection API to train and deploy models capable of real-time image processing and classification.
-* **Documentation:** `Object_Detection_TensorFlow.ipynb`
+* **Documentation:** `Object Detection Using TensorFlow`
 
 ### Landmark Recognition
 **Strategic Focus:** Image Analysis
