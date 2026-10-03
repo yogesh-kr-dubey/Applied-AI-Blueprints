@@ -22,7 +22,7 @@ I believe that Artificial Intelligence should be accessible, reproducible, and p
 
 * **Overview:** Developing systems for automated text categorization. This project demonstrates the ability of AI to interpret intent and classify unstructured data into actionable categories.
 * **Methodology:** Building sequence models with TensorFlow to process textual input, utilizing tokenization and embedding layers for linguistic accuracy.
-* **Documentation:** `Text Classification & Sentiment Analysis.ipynb`
+* **Documentation:** `SMS Spam Detection Using TensorFlow Hub.ipynb`
 
 
 ### Landmark Recognition
